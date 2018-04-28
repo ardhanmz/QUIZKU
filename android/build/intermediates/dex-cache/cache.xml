@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_0f589b2d8dcf8cf986c1d2053af183c5a96ec87f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ardha\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_cf4af5a8c1efb6498e7522d338f6c3f007255a60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_5a864c8883fea6156c263fe0c3229bb053d2d033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ardha\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_19c616f86bb11ea2c182dc0653790d082fd477fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ardha\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_a2645ac86f47088ba708203e30004926fd9f0631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_8b7e3f99a2a6dc677b9bd8cbd70287503dbb9e74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ardha\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_9105673b2478febad5d02d58138f4bed0ff16653.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_acd4c68e2c3a109b6015a8fff4dd27b8dfaa5444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9236445249b688377917bbf182bb651ba5a9c5f1">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.54.4_02ba3b358a4d75003430533c70d6f7cac1875e1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ardha\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_b80e1020f9462adfaa5ae6a2ea9085407d5acea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d8cd58108167a41ce798f74c6f2092dce9a135c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_5b5a02dabcd14b9a9093b0903bad1c8b9951ea27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_b4cb95c977aabf8c335e924d845e7e6da66d9ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ardha\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_4873b304008d799ea55dcc0e5d057088e5f6e361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_22b03d5a65069563e5f6a0e9c0086a6727558530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_dfa8ef258c8d708349f3b538d9b3d609ae013cab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_847613b2c96ae82d103290e13df99f3c36268dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ardha\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_e45616542a7eb656708da7d2369d196ed56bfe64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_53d9eb21e6612b8e1dc7f8b8262043ea609c1b6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_597a9e494310f83d88a95b3d1aba3347a12736a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Skirpsi\QUIZKU\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\Skirpsi\QUIZKU\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_3240d79fc4fd98b56b1e532b9b03131a723430a9.jar" />
+    </item>
+
+</items>

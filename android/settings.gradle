@@ -1,0 +1,3 @@
+rootProject.name = 'QUIZKU_PROJECT'
+
+include ':app'
